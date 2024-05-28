@@ -39,3 +39,5 @@ import는 직접 작성하지 않고 **단축키** 'ctrl+shift+o'를 누른다.
 난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%EB%82%9C%EC%88%98)에서 확인할수 있다
 ![카지노](https://github.com/jh011228/note/assets/170493602/4f53e7fe-bb1a-4b4d-9ed0-4c0099c7893a)
 
+빠이빠이
+![빠이빠이](./good.gif)
