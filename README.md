@@ -20,4 +20,4 @@ Random r = new Random();
 ```java
 import java.util.Random;
 ```
-import는 직접 작성하지 않고 단축키 ctrl+shift+o를 누른다.
+import는 직접 작성하지 않고 단축키 'ctrl+shift+o'를 누른다.
