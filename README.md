@@ -14,3 +14,9 @@ Random 도구 생성 방법
 ```java
 Random r = new Random();
 ```
+
+이 도구를 사용하기 위해서는 import가 필요
+
+```java
+import java.util.Random;
+```
